@@ -1,0 +1,40 @@
+.hexa-road-map {
+ position: relative;
+ margin-left: -10px;
+ padding-top: 8px;
+ padding-bottom: 32px;
+}
+
+.hexa-road-map .road-map-line {
+ position: absolute;
+  border-left: dashed 2px grey;
+ left: 18px;
+ top: 0;
+ height: 100%;
+ z-index: -1;
+}
+
+.hexa-road-map .road-map-item {
+ display: flex;
+ flex-direction: row;
+ justify-content: flex-start;
+ align-items: center;
+ margin-bottom: 32px;
+}
+
+.hexa-road-map .road-map-item img {
+ width: 36px;
+ height: 36px;
+}
+
+.hexa-road-map .road-map-item .q-date {
+ margin: 0;
+ font-weight: 700;
+ margin-left: 32px;
+ font-size: 20px;
+ line-height: 1;
+}
+
+.hexa-road-map .road-map-item .q-desc {
+ line-height: 1;
+}

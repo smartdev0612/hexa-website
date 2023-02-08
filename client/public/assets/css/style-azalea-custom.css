@@ -1,0 +1,10 @@
+.roadmap-time-custom { display: block; color: #ffffff; font-size: 13px; text-transform: uppercase; }
+
+/** 03.04 List */
+/* .list li { line-height: 1.44; padding: 5px 0; position: relative; color: #ffffff; font-size: 14px; } */
+.list-custom li { color: #d1d1d1; }
+ .custom-color p { color: #c8ccd3 } 
+ .comment-wrap-custom { background: #0a1227;  }
+ .bg-light-custom { background-color: #273d4e6e !important; }
+ .card-custom { padding: 20px; background: #0000004f; border: none; box-shadow: 0px 0px 50px 0px rgba(0, 0, 0, 0.02); }
+ .card-custom-community { padding: 5px; background: #0000004f; border: none; box-shadow: 0px 0px 50px 0px rgba(0, 0, 0, 0.02); }
